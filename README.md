@@ -1,9 +1,9 @@
 # Atividade KNN
 
-**Data: 15/06/2025** 
-**Aluno: Kauã Felipe Martins** 
-**Professor: Bruno Squizato Faical** 
-**Curso:Ciência de Dados e IA** 
+Data: 15/06/2025  
+Aluno: Kauã Felipe Martins  
+Professor: Bruno Squizato Faical  
+Curso:Ciência de Dados e IA  
 
 ---
 
